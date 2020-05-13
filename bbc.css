@@ -1,0 +1,168 @@
+* {
+    
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+    font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+
+}
+
+.top-panel-elements {
+
+    float: left;
+    color: black;
+    font-weight: bold;
+    line-height: 30px;
+    font-size: 13px;
+    padding: 1px 12px;
+    border-right: 1px #dddddd solid;
+    height: 34px;
+    text-decoration: none;
+
+}
+
+#top-panel-logo {
+
+    padding: 1px 12px 1px 23px;
+
+}
+
+#bbc-logo {
+
+    height: 23px;
+    margin-top: 7px;
+
+}
+
+#top-panel-sign {
+
+    padding-right: 87px;
+    padding-left: 15px;
+
+}
+
+.sign-in-button {
+
+    height: 17px;
+    margin-top: 7px;
+    margin-right:2px;
+
+}
+
+#top-panel-sign:hover {
+
+    border-bottom: 4px #2788BB solid;
+    height: 30px;   
+
+}
+
+#top-panel-more {
+
+    padding-right: 40px;
+
+}
+
+#top-panel-news:hover {
+
+    border-bottom: 4px #000000 solid;
+    height: 30px;
+
+}
+
+#top-panel-sport:hover {
+
+    border-bottom: 4px #ffd230 solid;
+    height: 30px;
+
+}
+
+#top-panel-reel:hover {
+
+    border-bottom: 4px #0068ff solid;
+    height: 30px;
+    
+}
+
+#top-panel-worklife:hover {
+
+    border-bottom: 4px #0052a1 solid;
+    height: 30px;
+
+}
+
+#top-panel-travel:hover {
+
+    border-bottom: 4px #589e50 solid;
+    height: 30px;
+
+}
+
+#top-panel-future:hover {
+
+    border-bottom: 4px #002856 solid;
+    height: 30px;
+
+}
+
+#top-panel-more:hover {
+
+    border-bottom: 4px #262626 solid;
+    height: 30px;
+
+}
+
+#arrow {
+
+    height: 3px;
+    position: relative;
+    left: 55px;
+    margin-right: 28px;
+
+}
+
+#magnifying-glass {
+
+    height: 16px;
+    position: relative;
+    top: 5px;
+    right: 28px;
+
+}
+
+input {
+
+    background-color: #dddddd;
+    font-weight: bold;
+    height: 25px;
+    width: 192px;
+    padding-left: 7px;
+    margin-top: 5px;
+
+}
+
+#input-div {
+
+    border-right: none;
+    width: 213px;
+
+}
+
+::placeholder { 
+
+    color: black;
+
+  }
+
+  #red-panel {
+
+    background-color: #BB1918;
+    min-width: 100%;
+    height: 92px;
+    float: left;
+    border-top: 1px #dddddd solid;
+
+  }
