@@ -11,6 +11,12 @@
 
 }
 
+a {
+
+    text-decoration: none;
+
+}
+
 .top-panel-elements {
 
     float: left;
@@ -21,7 +27,6 @@
     padding: 7px 12px 0px 12px;
     border-right: 1px #dddddd solid;
     height: 33px;
-    text-decoration: none;
 
 }
 
@@ -167,9 +172,9 @@ input {
 
     color: black;
 
-  }
+}
 
-  #red-panel {
+#red-panel {
 
     background-color: #BB1918;
     min-width: 100%;
@@ -177,4 +182,5 @@ input {
     float: left;
     border-top: 1px #dddddd solid;
 
-  }
+}
+
