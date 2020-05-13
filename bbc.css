@@ -18,7 +18,7 @@
     font-weight: bold;
     line-height: 30px;
     font-size: 13px;
-    padding: 1px 12px;
+    padding: 7px 12px 0px 12px;
     border-right: 1px #dddddd solid;
     height: 34px;
     text-decoration: none;
@@ -38,14 +38,14 @@
 
 }
 
-#top-panel-sign {
+#top-panel-sign-in {
 
     padding-right: 87px;
     padding-left: 15px;
 
 }
 
-.sign-in-button {
+#sign-in-button {
 
     height: 17px;
     margin-top: 7px;
@@ -53,11 +53,18 @@
 
 }
 
-#top-panel-sign:hover {
+#top-panel-sign-in:hover {
 
     border-bottom: 4px #2788BB solid;
     height: 30px;   
 
+}
+
+#sign-in-text {
+
+    position: relative; 
+    bottom: 3px;   
+    
 }
 
 #top-panel-more {
