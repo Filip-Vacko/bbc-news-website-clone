@@ -11,6 +11,13 @@
 
 }
 
+body {
+
+    width: 1024px;
+    min-width: 1024px;
+
+}
+
 a {
 
     text-decoration: none;
@@ -250,4 +257,137 @@ input {
     top: 9px;
     left: 5px;
     
-  }
+}
+
+#articles-div {
+
+    margin-left: 24px;
+    margin-right: 25px;
+    position: relative;
+    top: 10px;
+    float: left;
+
+}
+
+#tech-header {
+
+    font-size: 20px;
+    line-height: 24px;
+    width: 43px;
+    color: #404040;
+    border-bottom: 3px solid #BB1918;
+
+}
+
+#tech-main-articles-div {
+
+    margin-top: 18px;
+
+}
+
+.tech-main-articles-elements {
+
+    float: left;
+    width: 465px;
+    padding-left: 17px;
+    
+}
+
+#tech-main-image {
+
+    height: 275px;
+    width: 480px;
+    padding-left: 0px;
+
+}
+
+#tech-head-article {
+
+    font-size: 28px;
+    line-height: 32px;
+    color: black;
+    font-weight: bold;
+    margin-top: 10px;
+
+}
+
+.article-link:hover, .article-link:active, .article-link:visited:hover, #tech-head-article:hover, #tech-head-article:active, #tech-head-article:visited:hover {
+
+    text-decoration: underline;
+    color: #2180A1
+
+}
+
+.article-link:visited, #tech-head-article:visited {
+
+    color: #716C65;
+
+}
+
+#tech-head-article-description {
+
+    font-size: 14px;
+    line-height: 18px;
+    color: black;
+    margin-top: 11px;
+    margin-bottom: 10px;
+
+}
+
+.category-text{
+
+    font-size: 13px;
+    line-height: 16px;
+    color: black;
+
+}
+
+.category-text:visited {
+
+    color: black;
+
+}
+
+.clock-image {
+
+    width: 11px;
+    height: 11px;
+
+}
+
+.time-element {
+
+    border-right: 1px #dddddd solid;
+    padding-right: 8px;
+    margin-left: 2px;
+
+}
+
+#article-list {
+
+    position: relative;
+    left: 35px;
+    top: 39px;
+
+}
+
+.list-elements {
+
+    padding-left: 0px;
+    color: black;
+    margin-bottom: 7px;
+
+}
+
+.list-elements-links {
+
+    color: black;
+    font-weight: bold;
+
+}
+
+.list-elements-links:visited {
+
+    color: black;
+
+}
