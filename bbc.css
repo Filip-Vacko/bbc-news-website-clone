@@ -259,7 +259,7 @@ input {
     
 }
 
-#articles-div {
+#main-articles-div {
 
     margin-left: 24px;
     margin-right: 25px;
@@ -308,19 +308,6 @@ input {
     color: black;
     font-weight: bold;
     margin-top: 10px;
-
-}
-
-.article-link:hover, .article-link:active, .article-link:visited:hover, #tech-head-article:hover, #tech-head-article:active, #tech-head-article:visited:hover {
-
-    text-decoration: underline;
-    color: #2180A1
-
-}
-
-.article-link:visited, #tech-head-article:visited {
-
-    color: #716C65;
 
 }
 
@@ -389,5 +376,60 @@ input {
 .list-elements-links:visited {
 
     color: black;
+
+}
+
+.article-div {
+
+    width: 236px;
+    margin-left: 24px;
+    float: left;
+    margin-top: 37px;
+
+}
+
+.article-image {
+
+    width: 232px;
+    margin-bottom: 11px;
+
+}
+
+.article-headline {
+
+    font-size: 16px;
+    line-height: 20px;  
+    font-weight: bold;  
+    margin-bottom: 10px;
+    color: black;
+
+}
+
+.article-description {
+
+    font-size: 14px;
+    line-height: 18px;
+    color: black;
+    margin-bottom: 22px;
+
+}
+
+.article-time {
+
+    float: left;
+    width: 465px;
+
+}
+
+.article-link:hover, .article-link:active, .article-link:visited:hover, #tech-head-article:hover, #tech-head-article:active, #tech-head-article:visited:hover, .article-headline:hover, .article-headline:active, .article-headline:visited:hover {
+
+    text-decoration: underline;
+    color: #2180A1;
+    
+}
+
+.article-link:visited, #tech-head-article:visited, .article-headline:visited {
+
+    color: #716C65;
 
 }
