@@ -466,3 +466,16 @@ hr {
     width: 200px;
 
 }
+
+.second-row {
+
+    bottom: 15px;
+    position: relative;
+
+}
+
+#last-article {
+
+    bottom: 7px;
+
+}
