@@ -523,3 +523,10 @@ hr {
     width: 1300px;
   
   }
+
+  #features-analysis-row {
+
+    position: relative;
+    bottom: 21px;
+
+  }
