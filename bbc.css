@@ -550,3 +550,67 @@ hr {
     font-weight: bold;
 
 }
+
+.latest-updates-article-time {
+
+    font-size: 14px;
+    line-height: 18px;
+    color: #404040;
+    font-weight: normal;
+    margin-top: 22px;
+
+}
+
+.latest-updates-article-headline {
+
+    font-size: 20px;
+    line-height: 24px;
+    margin-top: 6px;
+    float: left;
+
+}
+
+.latest-updates-article-image {
+
+    width: 207px;
+    margin-top: 10px;
+    float: left;
+
+}
+
+.latest-updates-description-div {
+
+    margin-left: 18px;
+    float: left;
+    width: 3px;
+
+}
+
+.latest-updates-article-description {
+
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: normal;
+    color: #404040;
+    float: left;
+    width: 360px;
+
+}
+
+.latest-updates-article-more {
+
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: bold;
+    border: 1px grey solid;
+    width: 113px;
+    padding: 8px;
+    float: left;
+
+}
+
+.greater-than-sign {
+
+    font-size: 23px;
+
+}
