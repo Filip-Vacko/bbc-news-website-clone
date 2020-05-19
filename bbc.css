@@ -474,9 +474,18 @@ hr {
 
 }
 
-#last-article {
+.last-article {
 
     bottom: 7px;
+
+}
+
+.categories-articles {
+
+    margin-left: 24px;
+    float: left;
+    position: relative;
+    bottom: 26px;
 
 }
 
@@ -487,6 +496,7 @@ hr {
     border-top: 6px solid transparent;
     border-bottom: 6px solid transparent;
     border-left: 9px solid black;
+    margin-right: 10px;
 
   }
 
@@ -495,18 +505,6 @@ hr {
     float: left;
 
   }
-
-  .green-class {
-
-    background-color: green;
-
-  }
-
-  .low-width-class{
-
-    width: 170px;
-
-  } 
 
   .inline-hr {
 
