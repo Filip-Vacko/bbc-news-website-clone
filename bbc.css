@@ -606,6 +606,18 @@ hr {
 
 }
 
+.latest-updates-video-description {
+
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: normal;
+    color: #404040;
+    float: left;
+    width: 580px;
+    margin-top: 15px;
+
+}
+
 .latest-updates-article-more {
 
     font-size: 14px;
@@ -615,7 +627,6 @@ hr {
     width: 102px;
     padding: 5px 0px 5px 8px;
     float: left;
-    margin-top: 14px;
 
 }
 
@@ -632,6 +643,36 @@ hr {
     float: left;
     width: 100%;
     margin-top: 43px;
+    border-color: #DCDCDC;
+
+}
+
+.latest-updates-article-video {
+
+    margin-top: 12px;
+   
+}
+
+.latest-updates-video-subtitle {
+
+    background-color: #1E1E1E;
+    width: 561px;
+    height: 46px;
+    margin-bottom: 10px;
+    font-size: 13px;
+    color: white;
+    font-weight: normal;
+    vertical-align: middle;
+    line-height: 46px;
+    padding-left: 17px;
+
+}
+
+.latest-updates-video-hr {
+
+    float: left;
+    width: 100%;
+    margin-top: 17px;
     border-color: #DCDCDC;
 
 }
