@@ -551,13 +551,21 @@ hr {
 
 }
 
+#latest-update-sign {
+
+    margin-bottom: 11px;
+
+}
+
 .latest-updates-article-time {
 
     font-size: 14px;
     line-height: 18px;
     color: #404040;
     font-weight: normal;
-    margin-top: 22px;
+    float: left;
+    width: 100%;
+    margin-top: 11px;
 
 }
 
