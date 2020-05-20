@@ -698,3 +698,25 @@ hr {
     width: 300px;
 
 }
+
+#latest-updates-more-updates {
+
+    float: left;    
+    text-align: center;
+    width: 464px;
+    height: 25px;
+    font-size: 14px;
+    line-height: 18px;
+    color: #323232;
+    background-color: #DCDCDC;
+    border-bottom: 2px black solid;
+    margin: 73px 0px 0px 58px;
+    padding-top: 8px;
+
+}
+
+#latest-updates-more-updates:hover {
+
+    background-color: #A9A9A9;
+
+}
