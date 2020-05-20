@@ -515,6 +515,14 @@ hr {
 
   }
 
+  .short-inline-hr {
+
+    width: 747px;
+    margin-left: 15px;
+    margin-top: 10px;
+
+  }
+
   .special-article-row {
 
     font-size: 24px;
@@ -718,5 +726,20 @@ hr {
 #latest-updates-more-updates:hover {
 
     background-color: #A9A9A9;
+
+}
+
+#around-the-bbc-div {
+
+    font-weight: bold;
+    margin-top: 66px;
+
+}
+
+.around-the-bbc-hr {
+
+    width: 773px;
+    margin-left: 15px;
+    margin-top: 13px;
 
 }
