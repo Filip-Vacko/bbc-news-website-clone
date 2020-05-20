@@ -677,3 +677,24 @@ hr {
     border-color: #DCDCDC;
 
 }
+
+.latest-updates-reporter-name {
+
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 18px;
+    color: #1e1e1e;
+    width: 300px;
+    margin-top: 12px;
+
+}
+
+.latest-updates-reporter-role {
+
+    font-size: 13px;
+    font-weight: normal;
+    line-height: 16px;
+    color: #404040;
+    width: 300px;
+
+}
