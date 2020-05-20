@@ -594,6 +594,7 @@ hr {
     color: #404040;
     float: left;
     width: 360px;
+    margin-top: 15px;
 
 }
 
@@ -602,15 +603,27 @@ hr {
     font-size: 14px;
     line-height: 18px;
     font-weight: bold;
-    border: 1px grey solid;
-    width: 113px;
-    padding: 8px;
+    border: 1px #DBDBDB solid;
+    width: 102px;
+    padding: 5px 0px 5px 8px;
     float: left;
+    margin-top: 14px;
 
 }
 
 .greater-than-sign {
 
     font-size: 23px;
+    position: relative;
+    top: 3px;
+
+}
+
+.latest-updates-article-hr {
+
+    float: left;
+    width: 100%;
+    margin-top: 43px;
+    border-color: #DCDCDC;
 
 }
