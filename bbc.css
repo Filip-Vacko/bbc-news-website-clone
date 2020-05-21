@@ -780,7 +780,7 @@ hr {
 #social-media-div {
 
     border-right: 1px grey solid;
-    width: 478px;
+    width: 456px;
     height: 88px;
     float: left;
     padding-right: 23px;
@@ -797,8 +797,9 @@ hr {
 
     width: 225px;
     float: left;
-    margin-left: 17px;
+    margin-left: 16px;
     margin-right: 6px;
+    font-weight: bold;
 
 }
 
@@ -812,6 +813,35 @@ hr {
 
 .contacts-headline {
 
-    font-size: 16px;
+    font-size: 23px;
+    position: relative;
+    bottom: 8px;
+
+}
+
+.contacts-description {
+
+    margin-top: 10px;
+    margin-bottom: 32px;
+
+}
+
+.contacts-text{
+
+    font-size: 12px;
+    line-height: 16px;
+    color: black;
+
+}
+
+.contacts-email-twitter {
+
+    margin-bottom: 8px;
+
+}
+
+.not-bold-text {
+
+    font-weight: normal;
 
 }
