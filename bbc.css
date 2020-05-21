@@ -499,31 +499,31 @@ hr {
     border-left: 9px solid black;
     margin-right: 10px;
 
-  }
+}
 
-  .float-class {
+.float-class {
 
     float: left;
 
-  }
+}
 
-  .inline-hr {
+.inline-hr {
 
     width: 821px;
     margin-left: 15px;
     margin-top: 10px;
 
-  }
+}
 
-  .short-inline-hr {
+.short-inline-hr {
 
     width: 747px;
     margin-left: 15px;
     margin-top: 10px;
 
-  }
+}
 
-  .special-article-row {
+.special-article-row {
 
     font-size: 24px;
     line-height: 28px;
@@ -531,23 +531,23 @@ hr {
     margin-top: 40px;
     width: 1300px;
   
-  }
+}
 
-  #features-analysis-row {
+#features-analysis-row {
 
     position: relative;
     bottom: 21px;
 
-  }
+}
 
-  #wide-hr {
+#wide-hr {
 
     float: left;
     width: 975px;
     margin: 15px 25px 41px 25px;
     background-color: green;
 
-  }
+}
 
 #latest-updates-div {
 
