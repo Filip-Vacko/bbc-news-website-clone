@@ -767,3 +767,28 @@ hr {
     margin-bottom: 11px;
 
 }
+
+#find-us-here-div {
+
+    float: left;
+    height: 247px;
+    width: 100%;
+    margin-top: 15px;
+
+}
+
+#social-media-div {
+
+    border-right: 1px grey solid;
+    width: 478px;
+    height: 88px;
+
+}
+
+.social-media-icons {
+
+    padding-left: 25px;
+    padding-right: 33px;
+    padding-top: 27px;
+
+}
