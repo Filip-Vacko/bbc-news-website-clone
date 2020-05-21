@@ -743,3 +743,17 @@ hr {
     margin-top: 13px;
 
 }
+
+#around-the-bbc-image {
+
+    width: auto;
+
+}
+
+.around-the-bbc-articles {
+
+    width: 236px;
+    float: left;
+    margin: 15px 16px 0px 0px;
+    
+}
