@@ -581,6 +581,7 @@ hr {
     line-height: 24px;
     margin-top: 6px;
     float: left;
+    color: black;
 
 }
 
@@ -634,6 +635,7 @@ hr {
     padding: 5px 0px 5px 8px;
     float: left;
     margin-top: 13px;
+    color: black;
 
 }
 
@@ -814,6 +816,7 @@ hr {
     font-size: 23px;
     position: relative;
     bottom: 8px;
+    color: black;
 
 }
 
@@ -864,6 +867,13 @@ hr {
     margin-right: 105px;
     position: relative;
     bottom: 3px;
+    color: white;
+
+}
+
+.small-white-text:hover {
+
+    text-decoration: underline;
 
 }
 
@@ -923,6 +933,13 @@ hr {
 .margin-bottom {
 
     margin-bottom: 14px;
+    color: white;
+
+}
+
+.margin-bottom:hover {
+
+    text-decoration: underline;
 
 }
 
@@ -944,11 +961,43 @@ hr {
     font-weight: normal;
     margin: 9px 17px 6px 0px;
     float: left;
+    color: white;
+
+}
+
+.terms-and-conditions:hover {
+
+    text-decoration: underline;
 
 }
 
 .bold-text {
 
     font-weight: bold;
+    color: white;
+
+}
+
+.bold-text:hover {
+
+    text-decoration: underline;
+
+}
+
+.latest-updates-article-headline:hover, .latest-updates-article-headline:hover:visited, .latest-updates-article-headline:active, .latest-updates-article-more:hover, .latest-updates-article-more:hover:visited, .latest-updates-article-more:active, .mail-phone-etc-link:hover {
+
+    color: #1280A1;
+
+}
+
+.mail-phone-etc-link {
+
+    color: black;
+
+}
+
+.contacts-link:visited, .mail-phone-etc-link:visited {
+
+    color:#595959;
 
 }
