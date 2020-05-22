@@ -893,3 +893,21 @@ hr {
     padding-top: 24px;
 
 }
+
+.explore-the-bbc-elements {
+
+    float: left;
+    width: 143px;
+    margin-top: 31px;
+    border-right: 1px solid grey;
+    font-size: 13px;
+    line-height: 16px;
+    height: 46px;
+
+}
+
+.margin-bottom {
+
+    margin-bottom: 14px;
+
+}
