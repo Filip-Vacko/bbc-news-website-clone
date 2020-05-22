@@ -897,17 +897,41 @@ hr {
 .explore-the-bbc-elements {
 
     float: left;
-    width: 143px;
+    width: 146px;
     margin-top: 31px;
     border-right: 1px solid grey;
     font-size: 13px;
     line-height: 16px;
     height: 46px;
+    padding-left: 18px;
+
+}
+
+#no-padding {
+
+    padding: 0px;
+    width: 145px;
+
+}
+
+#no-border {
+
+    border: 0px;
 
 }
 
 .margin-bottom {
 
     margin-bottom: 14px;
+
+}
+
+#bottom-hr {
+
+    width: 976px;
+    float: left;
+    border: none;
+    height: 1px;
+    background-color: grey;
 
 }
