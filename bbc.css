@@ -942,6 +942,7 @@ hr {
     font-size: 13px;
     line-height: 16px;
     font-weight: normal;
-    margin-right: 17px;
+    margin: 9px 17px 6px 0px;
+    float: left;
 
 }
