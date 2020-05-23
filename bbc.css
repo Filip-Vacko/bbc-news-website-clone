@@ -53,8 +53,6 @@ a {
 
     padding-right: 87px;
     padding-left: 15px;
-    position: relative;
-    bottom: 2px;
 
 }
 
@@ -386,7 +384,7 @@ input {
 
 .article-div {
 
-    width: 236px;
+    width: 239px;
     float: left;
     margin-top: 37px;
     margin-right: 12px;
