@@ -3,6 +3,8 @@ Clone of the [BBC Tech News Website](https://www.bbc.com/news/technology) create
 
 I use just plain CSS, coding it "by hand" and not using any framework, library or tool. 
 
+I'm currently hosting the clone at this web address: [http://filip-projects-com.stackstaging.com/bbc-news-website-clone/bbc.html](http://filip-projects-com.stackstaging.com/bbc-news-website-clone/bbc.html)
+
 ## Compatibility & issues
 
 Tested in Chrome only. 
