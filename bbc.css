@@ -766,6 +766,12 @@ hr {
 
 }
 
+#around-the-bcc-main-article {
+    
+    color: black;
+    
+}
+
 #find-us-here-div {
 
     float: left;
@@ -963,7 +969,7 @@ hr {
 
 }
 
-.terms-and-conditions:hover {
+.terms-and-conditions:hover, #around-the-bcc-main-article:hover {
 
     text-decoration: underline;
 
@@ -982,7 +988,7 @@ hr {
 
 }
 
-.latest-updates-article-headline:hover, .latest-updates-article-headline:hover:visited, .latest-updates-article-headline:active, .latest-updates-article-more:hover, .latest-updates-article-more:hover:visited, .latest-updates-article-more:active, .mail-phone-etc-link:hover {
+.latest-updates-article-headline:hover, .latest-updates-article-headline:hover:visited, .latest-updates-article-headline:active, .latest-updates-article-more:hover, .latest-updates-article-more:hover:visited, .latest-updates-article-more:active, .mail-phone-etc-link:hover, #around-the-bcc-main-article:hover, #around-the-bcc-main-article:hover:visited {
 
     color: #1280A1;
 
@@ -994,7 +1000,7 @@ hr {
 
 }
 
-.contacts-link:visited, .mail-phone-etc-link:visited {
+.contacts-link:visited, .mail-phone-etc-link:visited, #around-the-bcc-main-article:visited {
 
     color: #595959;
 
